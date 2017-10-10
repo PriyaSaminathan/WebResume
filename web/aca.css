@@ -1,0 +1,19 @@
+body {
+    background-color:#cccccc;
+}
+
+.divi{
+
+    background-image: url("img.jpg");
+    background-repeat: repeat;
+}
+h3{
+font-family:Algerian;
+font-size:170%;
+font-style:italic;
+color: #737373;
+font-weight: bold;
+}
+hr{
+background-color:#595959;
+}

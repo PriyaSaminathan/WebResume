@@ -1,0 +1,28 @@
+body {
+    background-color:#cccccc;
+}
+h2{
+font-family:Algerian;
+font-size:250%;
+font-style:italic;
+color: #737373;
+font-weight: bold;
+}
+
+.divi{
+
+    background-image: url("img.jpg");
+    background-repeat: repeat;
+}
+hr{
+background-color:#595959;
+}
+p{
+ font-color:#f2f2f2;
+}
+a{
+color:#f2f2f2;
+font-size:150%;
+font-family:Maiandra GD;
+font-style:italic;
+}
